@@ -1,0 +1,20 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio1": "node ejercicios/exersice-01.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis200-4/mi-proyecto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luis200-4/mi-proyecto/issues"
+  },
+  "homepage": "https://github.com/Luis200-4/mi-proyecto#readme"
+}
