@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "ejercicio1": "node ejercicios/exersice-01.js"
-  },
+ 
+"scripts": {
+"start": "node ejercicios/app.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Luis200-4/mi-proyecto.git"
